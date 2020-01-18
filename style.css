@@ -20,7 +20,6 @@ body{
 }
 .left{
 	padding: 50px 30px;
-
 }
 .right{
 	padding: 100px 50px;
@@ -72,23 +71,28 @@ body{
     	url(round_shape.svg),
     	url(round_shape.svg); 
 	}
-	.container{
-		text-align: center;
+
+.container{
+	text-align: center;
 	}
 
-	.left{
-		padding: 10px 10px;
+.left{
+	padding: 10px 10px;
+	}
 
+.left img{
+	padding: 10px 10px;
 	}
-	.right{
-		padding: 10px 10px;
+.right{
+	padding: 10px 10px;
 	}
-	.right h1{
+
+.right h1{
 	font-family: 'Alata', sans-serif;
 	font-size: 3rem;
 	text-transform: uppercase;
 	font-weight: bold;
 	color: #454545 ;
-}
+	}
 }
 
