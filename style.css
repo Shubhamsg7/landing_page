@@ -61,6 +61,17 @@ body{
 }
 
 @media only screen and (max-width: 600px) {
+body{
+	height: 100vh;
+  	background-position:
+    	top -100px left -100px,
+    	top -80px right -80px;
+  	background-size: 200px;
+  	background-repeat: no-repeat;
+  	background-image:
+    	url(round_shape.svg),
+    	url(round_shape.svg); 
+	}
 	.container{
 		text-align: center;
 	}
@@ -71,6 +82,13 @@ body{
 	}
 	.right{
 		padding: 10px 10px;
+	}
+	.right h1{
+	font-family: 'Alata', sans-serif;
+	font-size: 3rem;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #454545 ;
 	}
 }
 
