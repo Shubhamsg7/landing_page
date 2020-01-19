@@ -94,12 +94,12 @@ body{
 	font-weight: bold;
 	color: #454545 ;
 	}
-	.bg-bottom{
+.bg-bottom{
 	position: relative; 
   	bottom: 0;
   	width: 100%;
   	background-color: white;
-	z-index: ;
+  	z-index: -2;
 }
 }
 
