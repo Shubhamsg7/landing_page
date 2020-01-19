@@ -95,7 +95,7 @@ body{
 	color: #454545 ;
 	}
 	.bg-bottom{
-	position: static; ;
+	position: relative; 
   	bottom: 0;
   	width: 100%;
   	background-color: white;
