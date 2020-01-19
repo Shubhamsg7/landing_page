@@ -94,5 +94,12 @@ body{
 	font-weight: bold;
 	color: #454545 ;
 	}
+	.bg-bottom{
+	position: static; ;
+  	bottom: 0;
+  	width: 100%;
+  	background-color: white;
+	z-index: ;
+}
 }
 
